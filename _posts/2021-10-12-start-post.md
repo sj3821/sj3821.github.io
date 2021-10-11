@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Github Blog Start
+comments: true
+published: true
 tags:
   - test
   - start

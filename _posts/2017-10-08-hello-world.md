@@ -1,6 +1,8 @@
 ---
 layout: post
 title: test12345
+comments: true
+published: false
 tags:
   - test
   - tags
