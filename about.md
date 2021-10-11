@@ -16,8 +16,8 @@ Mar 2010 ~ Feb 2018
 
 ### WORK EXPERIENCE
 - MICUBE SOLUTION, Dec 2020 ~ ing
-    Software Developer Department
-    Project : MES~~~~
+-- Software Developer Department
+-- Project : MES~~~~
 
 ### SKILLS
 - Programming Language : Java, JS, SQL
