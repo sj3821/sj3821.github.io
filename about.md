@@ -29,7 +29,6 @@ Mar 2010 ~ Feb 2018
 
 -- Software Developer Department
 
--- Project :
 
 
 
