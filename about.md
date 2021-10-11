@@ -4,12 +4,30 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+SUJI LEE
+sj3821@gmail.com
+sj3821.github.io
 
-### More Information
+### EDUCATION
+Sookmyung Women's University (Seoul, South Korea)
+Bachelor of Science
+Division of Computer Science
+Mar 2010 ~ Feb 2018
 
-A place to include any other types of information that you'd like to include about yourself.
+### WORK EXPERIENCE
+- MICUBE SOLUTION, Dec 2020 ~ ing
+    Software Developer Department
+    Project : MES~~~~
+
+### SKILLS
+- Programming Language : Java, JS, SQL
+- Open Source : Linux, Bootstrap, jQuery
+
+### LANGUAGE
+- Korean : Native
+- English : Pre-Intermediate
+- Japanese : Upper Intermediate, JLPT N1
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sj3821@gmail.com](mailto:sj3821@gmail.com)
